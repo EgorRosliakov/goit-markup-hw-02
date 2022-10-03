@@ -180,6 +180,7 @@ text-decoration: none;
 .adress :hover,
 .adress :focus {
   color: var(--accent-color);
+  text-decoration: none;
 }
 
 /* Портфоліо */
